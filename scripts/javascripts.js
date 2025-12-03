@@ -10,8 +10,7 @@ function favouriteAnimal(animal) {
     return animal + " is my favourite animal!"
 }
 
-let message = favouriteAnimal("Kathy")
+const message = favouriteAnimal("Kathy")
 console.log(message)
 
-let message = favouriteAnimal("Me!")
-console.log(message)
+
